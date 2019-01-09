@@ -1,2 +1,3 @@
-make nginx + flask web application setting using docker compose
-use nginx reverse proxy
+## make nginx + flask web application setting 
+- use docker compose
+- use nginx reverse proxy
